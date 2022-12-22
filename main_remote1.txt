@@ -1,3 +1,4 @@
 main_remote1 - new file
 local update1
+remote update2
 
